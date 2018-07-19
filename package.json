@@ -1,6 +1,6 @@
 {
   "name": "async-await-until",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simplifies switching async calls from main to background threads and back. This is a copy of https://github.com/svermeulen/Unity3dAsyncAwaitUtil/ wrapped as an npm package so that it can be used as a dependency by other packages.",
   "main": "index.js",
   "scripts": {
